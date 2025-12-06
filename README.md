@@ -347,23 +347,6 @@ StudyNotion is built using the following technologies:
 |-----------------------|---------------------------------------|
 | CATALOG_PAGE_DATA       | `api/v1/course/getCategoryPageDetails`|
 
-### CONTACT US 
-
-| ENDPOINT              | API PATH                           |
-|-----------------------|------------------------------------|
-| CONTACT_US            | `api/v1/reach/contact`              |
-
-### SETTING
-
-| ENDPOINT                  | API PATH                              |
-|---------------------------|---------------------------------------|
-| UPDATE_DISPLAY_PICTURE     | `api/v1/profile/updateDisplayPicture`  |
-| UPDATE_PROFILE             | `api/v1/profile/updateProfile`        |
-| CHANGE_PASSWORD            | `api/v1/auth/changepassword`          |
-| DELETE_PROFILE             | `api/v1/profile/deleteProfile`       |
-
-### SCHEMA DESIGN
-![Schema Design](https://res.cloudinary.com/dvpulu3cc/image/upload/v1699036870/Screenshot_2023-11-04_001024_ef0phq.jpg)
 
 ### FUNCTIONALITIES
 
@@ -396,32 +379,8 @@ The front end of StudyNotion is designed using Figma, a popular design tool that
 - *COURSE MANAGEMENT PAGES:* Creation, update, and deletion of courses, as well as managing content and pricing.
 - *VIEW & EDIT PROFILE DETAILS:* View and edit account details.
 
-#### ADMIN (Future Scope)
-
-- *DASHBOARD:* Overview of the platform's courses, instructors, and students.
-- *INSIGHTS:* Detailed metrics of the platform, including user count, courses, and revenue.
-- *INSTRUCTOR MANAGEMENT:* Admin access to manage instructors, their account details, courses, and ratings.
-- *MISCELLANEOUS* Access to user and course management pages.
-
-## CONTRIBUTORS
-
-- Yash Choudhary
-  - GITHUB: [Yash Choudhary](https://github.com/yash52003/EdtechPlatform) 
-
-## OPEN SOURCE
-
-We welcome contributions to enhance StudyNotion. Please fork the repository, make your changes, and submit a pull request for review.
-
-## LICENSE
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## CONTACT
-
-For any queries or suggestions, feel free to contact the authors:
-- Yash Choudhary: [Email](mailto: yashchoudhary52003@gmail.com)
 
 
-## ACKNOWLEDGEMENT
 
-We would like to acknowledge the invaluable support and inspiration from the open-source community and various educational platforms that motivated us to develop StudyNotion.
+
+
